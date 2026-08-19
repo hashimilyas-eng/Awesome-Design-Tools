@@ -203,6 +203,7 @@ Find some powerful screenshot tools available for macOS:
 * [Alva](https://www.meetalva.io/) — create living prototypes with code components.
 * [Axure RP](https://www.axure.com/) — wireframing, prototyping, collaboration & specifications generation.
 * [Balsamiq](https://balsamiq.com/) — wireframing and collaboration.
+* [Mokkup.ai](https://www.mokkup.ai/) — dashboard wireframing and prototyping for Power BI and Tableau.
 * [Creo](https://creolabs.com/) — prototyping, code exporting and built-in mobile app builder.
 * [InVision](https://www.invisionapp.com/) —  prototyping, collaboration & workflow platform.
 * [Flinto](https://www.flinto.com/) — a Mac app for creating interactive and animated prototypes of app designs.
